@@ -1,0 +1,21 @@
+.classList {
+	.indicator_tab div > span {
+		background-color: #8f7ef3 !important;
+		border-radius: 6px;
+		height: 2.5px;
+	}
+	.classlists {
+		&::-webkit-scrollbar {
+			display: none;
+		}
+	}
+}
+.chatView {
+	.chats {
+		&::-webkit-scrollbar {
+			// width: 5px;
+			display: none;
+		}
+		scroll-behavior: smooth !important;
+	}
+}

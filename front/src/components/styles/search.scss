@@ -1,0 +1,27 @@
+.groupTypeSelect{
+	width: 8rem;
+	cursor: pointer;
+    height: 2.1rem;
+    border-radius: 4px;
+    padding-left: 8px;
+    outline: none;
+    font-family: inherit;
+    font-weight: 400;
+	border: 1px solid #868686;
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    color: rgba(0, 0, 0, 0.87);
+    background-color: rgb(255, 255, 255);
+	// -webkit-appearance: none;
+    //     -moz-appearance: none;
+    //     appearance: none;
+		text-overflow: ellipsis;
+  }
+
+  .detailPictureImg{
+    @media screen and (width<600px) {
+        width: 80px;
+        height:80px
+    }
+  }

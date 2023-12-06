@@ -1,0 +1,16 @@
+.policyHeader {
+    padding: 2rem;
+    background-color: #f3f1ff;
+    text-align: center;
+    border-bottom: 4px solid #7a6ccc;
+}
+
+.title {
+    font-weight: 600;
+}
+
+.wrapper {
+    padding: 0.7rem;
+    text-align: justify;
+    min-height: calc(100vh - 204px);
+}

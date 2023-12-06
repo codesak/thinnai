@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+    --ff-primary: 'Montserrat', sans-serif;
+    --ff-secondary: 'Open Sans', sans-serif;
+}
+
+.mainContainer {
+    min-height: 100vh;
+}
+
+/* Container Registration Page */
+@media screen and (min-width: 900px) {
+    .registerContainer {
+        display: flex;
+        gap: 5rem;
+    }
+
+}
+@media screen and (min-width: 900px) {
+    .mainContainer {
+        display: flex;
+        min-height: 100vh;
+        align-items: center;
+    }
+}
+
+.desktopInfoWrapper {
+    width: 100%;
+    max-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    margin-bottom: 6rem;
+    padding-top: 4rem;
+}
+
+.desktopHeading {
+    font-family: var(--ff-primary);
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+.desktopTagLine {
+    font-family: var(--ff-secondary);
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.imgContainer {
+    padding-left: 4rem;
+    display: none;
+    width: 60%;
+    min-height: 100vh;
+    background-color: #FCFCFF;
+}
+
+.imgContainer img {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (min-width: 900px) {
+    .imgContainer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+.formContainer {
+    width: 45%;
+    flex-shrink: 0;
+}
+
+.infoWrapper {
+    
+}
+
+.switch {
+    width: 100%;
+    min-height: 100vh;
+    
+}
+
+@media screen and (min-width: 900px) {
+        .switch {
+            width: 50%;
+            min-height: auto;
+        }
+}
+
+.container {
+    padding: 2rem;
+}
+
+.container p {
+    font-family: var(--ff-secondary);
+    font-size: 12px;
+}
+
+.container div {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.container div img {
+    width: 25px;
+}
+
+.container div h2 {
+    font-family: var(--ff-primary);
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+@media screen and (min-width: 900px) {
+    .container {
+        display: none;
+    }
+}
+
+.backBtn {
+
+}
+
+.desktopNav {
+    display: none;
+}
+
+.desktopLogo {
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+}
+
+/* .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} */
+
+/* .wrapper div {
+    display: flex;
+    gap: 2rem;
+} */
+
+/* .wrapper div:first-child {
+    width: 54.8%;
+    background-color: #8f7ef3;
+    padding-top: 2rem;
+    padding-left: 4rem;
+}
+
+.wrapper div:last-child {
+    width: 45%;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 4rem;
+    padding-top: 2rem;
+} */
+
+.desktopNavBtns {
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    z-index: 999;
+}
+
+.desktopNavBtns button:first-child {
+    color: #8f7ef3;
+    font-weight: 400;
+    background-color: transparent;
+    border: none;
+    font-family: var(--ff-secondary);
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.desktopNavBtns button:last-child {
+    font-weight: 600;
+    color: white;
+    background-color: #8f7ef3;
+    padding: 0.6rem 1rem;
+    border-radius: 6px;
+    border: none;
+    font-family: var(--ff-secondary);
+    font-size: 16px;
+    cursor: pointer;
+}
+
+@media screen and (min-width: 900px) {
+    .desktopNav {
+        display: block;
+    }
+}
+
+.imgMobile {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    margin-bottom: 5rem;
+}
+@media screen and (min-width: 900px) {
+    .imgMobile {
+        display: none;
+    }
+}
+
+.imgMobile img {
+    width: 100%;
+}
+
+.right {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+@media screen and (min-width: 900px) {
+    .right {
+        overflow-y: scroll;
+        overflow-x: hidden;
+        max-height: 100vh;
+        width: 40%;
+        margin-top: 6rem;
+    }
+
+}

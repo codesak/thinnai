@@ -1,0 +1,11 @@
+.container {
+    position: relative;
+}
+.leftBtn {
+    position: absolute;
+    top: 50%;
+}
+
+.rightBtn {
+
+}

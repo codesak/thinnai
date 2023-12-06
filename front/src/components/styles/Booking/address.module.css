@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+.nearestLocation {
+    margin-top: 1rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.heading {
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.info {
+   margin-top: 1rem;
+   margin-bottom: 1rem;
+}
+
+.nearestLocation div:first-child {
+    margin-bottom: 1rem !important;
+}

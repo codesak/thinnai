@@ -1,0 +1,15 @@
+.classList .indicator_tab div > span {
+  background-color: #8f7ef3 !important;
+  border-radius: 6px;
+  height: 2.5px;
+}
+.classList .classlists::-webkit-scrollbar {
+  display: none;
+}
+
+.chatView .chats {
+  scroll-behavior: smooth !important;
+}
+.chatView .chats::-webkit-scrollbar {
+  display: none;
+}/*# sourceMappingURL=chat.css.map */

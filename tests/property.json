@@ -1,0 +1,2072 @@
+[
+	{
+		"isActive": true,
+		"showProperty": true,
+		"approvalStatus": "pending",
+		"propertyPictures": [
+			"thinnai/6365eae79cbd2dce4a5a5f39/04c3ad6d-382d-4085-b905-a98ddc7aa1af.jpg",
+			"thinnai/6365eae79cbd2dce4a5a5f39/04c3ad6d-382d-4085-b905-a98ddc7aa1af(1).jpg",
+			"thinnai/6365eae79cbd2dce4a5a5f39/IMG_4327.jpg",
+			"thinnai/6365eae79cbd2dce4a5a5f39/IMG_4335.jpg"
+		],
+		"propertyName": "Harmony Ville",
+		"propertyDescription": "The terrace is my personal space where I can do what I love doing i.e.grow plants and create an ambience for get togethers and celebrate. I am very particular about keeping it clean and neat and expect the same from my guests.",
+		"houseNumber": "230, ,3rd floor",
+		"tower": "Achyuta Nilayam, 2nd main",
+		"street": "230, achyuta nilayam , 3rd floor, 2nd main",
+		"locality": "Domlur 2nd stage",
+		"landmark": "Home",
+		"city": "Bangalore",
+		"state": "Karnataka",
+		"zipCode": "560071",
+		"thinnaiLocationUrl": "https://maps.app.goo.gl/r5fVb5eZskDYc7dS8",
+		"directions": [
+			"Take a left from the Office Building",
+			"Take a right from the shopping complex"
+		],
+		"propertyType": "Commercial Space",
+		"propertyOwnership": "Owned",
+		"thinnaiLocation": ["Lawn"],
+		"weatherProof": false,
+		"amenities": [
+			"Dining Table",
+			"Dining Chairs",
+			"Plates",
+			"Tumblers and Cutlery",
+			"RO Drinking Water",
+			"Ash Tray",
+			"Dish Washing",
+			"Clean Foot Wear",
+			"Restroom",
+			"Drinking Water"
+		],
+		"preferredGuests": [
+			"Friends( Mix of Men &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Women)",
+			"Couples",
+			"Family without Kids &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Toddlers",
+			"Family without Kids &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Toddlers",
+			"Women only",
+			"Men &amp;amp;amp;amp;amp;amp;amp;amp;amp; Women",
+			"Family With Kids",
+			"Couple",
+			"Family Without Kids"
+		],
+		"activities": [
+			"CASUAL DINING",
+			"READING CLUBS",
+			"COMMUNITY GATHERING (Artists, Designers, Travelers, Musicians)",
+			"CAUSAL WORK&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x2F;BUSINESS MEETING",
+			"MEDITATION",
+			"WORKSHOP (Art, Human Library, Music, Fashion, etc.)",
+			"REMOTE WORK",
+			"SPECIAL OCCASION (B-DAY, DATE NIGHTS)",
+			"Community Gathering",
+			"Special Occasions"
+		],
+		"parkingType": [],
+		"services": ["Hookah", "Non Veg", "Smoke", "Alcohol"],
+		"alcoholAllowedFor": ["Women Only", "All For All"],
+		"maxGuestCount": 5,
+		"directBooking": false,
+		"houseRules": [
+			"Outside footwear not allowed in the space",
+			"Garbage to be disposed in the provided bins",
+			"This being a residential space, noise levels have to be maintained within the permissible limits",
+			"Please be mindful of the plants",
+			"Please respect the appartment staff"
+		],
+		"minDuration": 2,
+		"visibility": 30,
+		"ratings": {
+			"good": 23,
+			"neutral": 44,
+			"bad": 2
+		},
+		"happyCustomers": 7,
+		"pricing": {
+			"joyHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 43,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 66,
+						"threeAndHalfHour": 55
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 5,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 76,
+						"twoAndHalfHour": 36,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			],
+			"galaHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 99,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 75,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 75,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			]
+		},
+		"foodJoints": [
+			{
+				"restaurantName": "The Only Place",
+				"cuisineType": "Indian",
+				"foodSuggestions": "Sandwiches, Burger, Pizza"
+			}
+		],
+		"reviews": [],
+		"hostSchedule": [],
+		"totalBookings": 10,
+		"totalReviews": 8
+	},
+	{
+		"isActive": true,
+		"showProperty": true,
+		"approvalStatus": "approved",
+		"propertyPictures": [
+			"thinnai/6365eaea9cbd2dce4a5a5f3f/IMG_2859.jpg",
+			"thinnai/6365eaea9cbd2dce4a5a5f3f/IMG_2881.jpg",
+			"thinnai/6365eaea9cbd2dce4a5a5f3f/IMG_2886.jpg",
+			"thinnai/6365eaea9cbd2dce4a5a5f3f/IMG_2901.jpg",
+			"thinnai/6365eaea9cbd2dce4a5a5f3f/IMG_2910.jpg"
+		],
+		"propertyName": "Dreamer&#x27;s Cube",
+		"propertyDescription": "The space is designed to spark creativity and conversations. It&#x27;s design is inspired by cute cafes and vibrant co-working spaces.",
+		"houseNumber": "E131, 3rd floor",
+		"tower": "E1 Block",
+		"street": "Sona Vistaas, Begur-Hulimavu road",
+		"locality": "Devarachikkana Halli, Off Bannerghatta main road",
+		"landmark": "Stone Park",
+		"city": "Bangalaro",
+		"state": "Karnataka",
+		"zipCode": "560076",
+		"thinnaiLocationUrl": "https://g.co/kgs/8LQJWw",
+		"directions": [],
+		"propertyType": "Apartment",
+		"propertyOwnership": "Owned",
+		"thinnaiLocation": ["Room"],
+		"weatherProof": false,
+		"amenities": [
+			"Fridge",
+			"Music System",
+			"Air Conditioner",
+			"Board Games",
+			"Wifi",
+			"Pet Friendly",
+			"Wine Glasses",
+			"Water Glasses"
+		],
+		"preferredGuests": ["Allow All"],
+		"activities": [
+			"READING CLUBS",
+			"COMMUNITY GATHERING",
+			"CAUSAL WORK&#x2F;BUSINESS MEETING",
+			"MEDITATION",
+			"WORKSHOP",
+			"REMOTE WORK",
+			"DINNER DATE",
+			"LATE NIGHT CELEBRATIONS",
+			"LUNCH DATES",
+			"FRIENDS GET-TOGETHER",
+			"SHOOTING PHOTOS&#x2F;VIDEOS"
+		],
+		"parkingType": ["2 Wheeler Parking", "4 Wheeler Parking"],
+		"services": ["Alcohol", "Non Veg"],
+		"alcoholAllowedFor": ["Allow For All"],
+		"maxGuestCount": 8,
+		"directBooking": true,
+		"houseRules": [
+			"Outside footwear not allowed in the space",
+			"Garbage to be disposed in the provided bins",
+			"This being a residential space, noise levels have to be maintained within the permissible limits",
+			"Please be mindful of the plants"
+		],
+		"minDuration": 1,
+		"visibility": 30,
+		"ratings": {
+			"good": 23,
+			"neutral": 44,
+			"bad": 2
+		},
+		"happyCustomers": 7,
+		"pricing": {
+			"joyHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 43,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 66,
+						"threeAndHalfHour": 55
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 5,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 76,
+						"twoAndHalfHour": 36,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			],
+			"galaHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 99,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 75,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 75,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			]
+		},
+		"foodJoints": [
+			{
+				"restaurantName": "The Only Place",
+				"cuisineType": "Indian",
+				"foodSuggestions": "Sandwiches, Burger, Pizza"
+			}
+		],
+		"reviews": [],
+		"hostSchedule": [],
+		"totalBookings": 12,
+		"totalReviews": 8
+	},
+	{
+		"isActive": true,
+		"showProperty": true,
+		"approvalStatus": "approved",
+		"propertyPictures": [
+			"thinnai/6365eaee9cbd2dce4a5a5f45/IMG_1535.jpg",
+			"thinnai/6365eaee9cbd2dce4a5a5f45/IMG_1551.jpg",
+			"thinnai/6365eaee9cbd2dce4a5a5f45/IMG_1576.jpg",
+			"thinnai/6365eaee9cbd2dce4a5a5f45/IMG_1584.jpg"
+		],
+		"propertyName": "Palazzo",
+		"propertyDescription": "Its a 300 sqft Office area with a large table ( comfortably seating 6 guests), with a bar table&#x2F; counter &amp; bench, with large french windows, differential lighting depending on the mood, a coffee&#x2F; tea maker and you can have the option of using the Ice Box (please bring your own ice packs) to chill you drinks.",
+		"houseNumber": "NO. 33&#x2F;22",
+		"tower": "1st Cross",
+		"street": "VICTORIA ROAD",
+		"locality": "",
+		"landmark": "Opp DTDC",
+		"city": "Bangalore",
+		"state": "Karnataka",
+		"zipCode": "560047",
+		"thinnaiLocationUrl": "",
+		"directions": [],
+		"propertyType": "Commercial Space",
+		"propertyOwnership": "Owned",
+		"thinnaiLocation": ["Room", "Terrace"],
+		"weatherProof": false,
+		"amenities": [
+			"Dining Table",
+			"Dining Chairs",
+			"Plates",
+			"Tumblers and Cutlery",
+			"Fridge",
+			"Pet Friendly",
+			"WiFi",
+			"Restroom",
+			"Music System",
+			"Fan",
+			"Ice Box",
+			"Coffee&#x2F;Tea Maker"
+		],
+		"preferredGuests": ["Allow All"],
+		"activities": [
+			"CASUAL DINING",
+			"READING CLUBS",
+			"MEDITATION",
+			"REMOTE WORK",
+			"SPECIAL OCCASION (B-DAY, DATE NIGHTS)"
+		],
+		"parkingType": ["2 Wheeler Parking", "4 Wheeler Parking"],
+		"services": ["Alcohol", "Non Veg", "Smoke"],
+		"alcoholAllowedFor": ["Allow For All"],
+		"maxGuestCount": 8,
+		"directBooking": false,
+		"houseRules": ["No loud music and shouting.", "SMOKING ONLY AT DESIGNATED AREA."],
+		"minDuration": 2,
+		"visibility": 30,
+		"ratings": {
+			"good": 23,
+			"neutral": 44,
+			"bad": 2
+		},
+		"happyCustomers": 10,
+		"pricing": {
+			"joyHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 43,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 66,
+						"threeAndHalfHour": 55
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 5,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 76,
+						"twoAndHalfHour": 36,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			],
+			"galaHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 99,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 75,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 75,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			]
+		},
+		"foodJoints": [
+			{
+				"restaurantName": "The Only Place",
+				"cuisineType": "Indian",
+				"foodSuggestions": "Sandwiches, Burger, Pizza"
+			}
+		],
+		"reviews": [],
+		"hostSchedule": [],
+		"totalBookings": 15,
+		"totalReviews": 8
+	},
+	{
+		"isActive": true,
+		"showProperty": true,
+		"approvalStatus": "approved",
+		"propertyPictures": [
+			"thinnai/6365eaf09cbd2dce4a5a5f4b/IMG_5501.jpg",
+			"thinnai/6365eaf09cbd2dce4a5a5f4b/IMG_5506.jpg",
+			"thinnai/6365eaf09cbd2dce4a5a5f4b/IMG_5599.JPG",
+			"thinnai/6365eaf09cbd2dce4a5a5f4b/IMG_5600.JPG",
+			"thinnai/6365eaf09cbd2dce4a5a5f4b/IMG_5627.jpg"
+		],
+		"propertyName": "Boho Bay",
+		"propertyDescription": "Can enjoy the soothing experience. They can enjoy a pleasure time with their group from daily busy schedule. Space has a different vibe in itself to heal your stressful life . Space has both old and modern look which makes it even more special. Couples will love the ambiance.",
+		"houseNumber": "#582",
+		"tower": "14th Cross, 3rd Block",
+		"street": "Vishwapriya Layout,",
+		"locality": "Begur",
+		"landmark": "",
+		"city": "Bangalore",
+		"state": "Karnataka",
+		"zipCode": "560068",
+		"thinnaiLocationUrl": "https://g.page/harirup_packers?share",
+		"directions": [],
+		"propertyType": "Individual House",
+		"propertyOwnership": "Owned",
+		"thinnaiLocation": ["Room"],
+		"weatherProof": true,
+		"amenities": [
+			"Dining Table",
+			"Plates",
+			"Tumblers and Cutlery",
+			"Fridge",
+			"WiFi",
+			"Restroom",
+			"RO Drinking Water"
+		],
+		"preferredGuests": ["Allow All"],
+		"activities": [
+			"CASUAL DINING",
+			"COMMUNITY GATHERING (Artists, Designers, Travelers, Musicians)",
+			"MEDITATION",
+			"SPECIAL OCCASION (B-DAY, DATE NIGHTS)"
+		],
+		"parkingType": ["2 Wheeler Parking", "4 Wheeler Parking"],
+		"services": [],
+		"alcoholAllowedFor": [],
+		"maxGuestCount": 8,
+		"directBooking": true,
+		"houseRules": [
+			"Outside footwear not allowed in the space",
+			"Garbage to be disposed in the provided bins",
+			"This being a residential space, noise levels have to be maintained within the permissible limits",
+			"Please be mindful of the plants"
+		],
+		"minDuration": 1,
+		"visibility": 30,
+		"ratings": {
+			"good": 23,
+			"neutral": 44,
+			"bad": 2
+		},
+		"happyCustomers": 24,
+		"pricing": {
+			"joyHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 43,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 66,
+						"threeAndHalfHour": 55
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 5,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 76,
+						"twoAndHalfHour": 36,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			],
+			"galaHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 99,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 75,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 75,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			]
+		},
+		"foodJoints": [
+			{
+				"restaurantName": "The Only Place",
+				"cuisineType": "Indian",
+				"foodSuggestions": "Sandwiches, Burger, Pizza"
+			}
+		],
+		"reviews": [],
+		"hostSchedule": [],
+		"totalBookings": 8,
+		"totalReviews": 8
+	},
+	{
+		"isActive": true,
+		"showProperty": true,
+		"approvalStatus": "approved",
+		"propertyPictures": [
+			"thinnai/6365eaf49cbd2dce4a5a5f51/IMG_7853.jpg",
+			"thinnai/6365eaf49cbd2dce4a5a5f51/IMG_7857.jpg",
+			"thinnai/6365eaf49cbd2dce4a5a5f51/IMG_7861.jpg",
+			"thinnai/6365eaf49cbd2dce4a5a5f51/IMG_7869.jpg",
+			"thinnai/6365eaf49cbd2dce4a5a5f51/IMG_7877.jpg"
+		],
+		"propertyName": "Fireflies",
+		"propertyDescription": "A relaxed and romantic hideaway in the heart of the city where you can immerse yourself in the sounds of nature while veiled by Bangalore&#x27; s raintrees.",
+		"houseNumber": "Flat 402,",
+		"tower": "Airavatam Apartment",
+		"street": "Domlur",
+		"locality": "Domlur",
+		"landmark": "",
+		"city": "Bangalore",
+		"state": "Karnataka",
+		"zipCode": "560071",
+		"thinnaiLocationUrl": "https://maps.app.goo.gl/jQcr1G9GWpa1QrYW9",
+		"directions": [],
+		"propertyType": "Apartment",
+		"propertyOwnership": "Rented",
+		"thinnaiLocation": ["Balcony"],
+		"weatherProof": false,
+		"amenities": [
+			"Dining Table",
+			"Dining Chairs",
+			"Plates",
+			"Tumblers and Cutlery",
+			"Oven",
+			"Fridge",
+			"Pet Friendly",
+			"WiFi",
+			"Restroom",
+			"Music System",
+			"RO Drinking Water",
+			"Fan"
+		],
+		"preferredGuests": [
+			"Friends( Mix of Men &amp; Women)",
+			"Couples",
+			"Family without Kids &amp; Toddlers",
+			"Women only"
+		],
+		"activities": [
+			"CASUAL DINING",
+			"READING CLUBS",
+			"CAUSAL WORK&#x2F;BUSINESS MEETING",
+			"REMOTE WORK",
+			"SPECIAL OCCASION (B-DAY, DATE NIGHTS)"
+		],
+		"parkingType": ["2 Wheeler Parking", "4 Wheeler Parking"],
+		"services": ["Hookah", "Non Veg", "Smoke", "Alcohol"],
+		"alcoholAllowedFor": [],
+		"maxGuestCount": 4,
+		"directBooking": true,
+		"houseRules": ["Shoes to be left at the door (house slippers will be provided by host)"],
+		"minDuration": 2,
+		"visibility": 30,
+		"ratings": {
+			"good": 23,
+			"neutral": 44,
+			"bad": 2
+		},
+		"happyCustomers": 45,
+		"pricing": {
+			"joyHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 43,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 66,
+						"threeAndHalfHour": 55
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 5,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 76,
+						"twoAndHalfHour": 36,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			],
+			"galaHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 99,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 75,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 75,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			]
+		},
+		"foodJoints": [
+			{
+				"restaurantName": "The Only Place",
+				"cuisineType": "Indian",
+				"foodSuggestions": "Sandwiches, Burger, Pizza"
+			}
+		],
+		"reviews": [],
+		"hostSchedule": [],
+		"totalBookings": 18,
+		"totalReviews": 8
+	},
+	{
+		"isActive": true,
+		"showProperty": true,
+		"approvalStatus": "approved",
+		"propertyPictures": [
+			"thinnai/635ffceb44b3622bbfc17935/e62ffc62-b535-43d8-8037-d6a8e15c594c_image_cropper_1668692283042.jpg",
+			"thinnai/635ffceb44b3622bbfc17935/ccc191e5-115e-4534-bf98-d36c9d9ffb75_image_cropper_1668692290663.jpg",
+			"thinnai/635ffceb44b3622bbfc17935/8245ae30-d187-4689-a823-aff30bb56436_image_cropper_1668692292001.jpg",
+			"thinnai/635ffceb44b3622bbfc17935/a92b87d9-333d-435d-98b8-8d93c9780081_image_cropper_1668692292701.jpg",
+			"thinnai/635ffceb44b3622bbfc17935/9a492b0d-070d-4bda-8bbc-91e176b61733_image_cropper_1668692293334.jpg"
+		],
+		"propertyName": "A Nice Place",
+		"propertyDescription": "Nice",
+		"houseNumber": "T 15",
+		"tower": "Jaypee",
+		"street": "131",
+		"locality": "Wishtown",
+		"landmark": "Hospital",
+		"city": "Noida",
+		"state": "UP",
+		"zipCode": "201304",
+		"thinnaiLocationUrl": "https://goo.gl/maps/tDSY5LwXFqR3o1wt7",
+		"directions": ["Take a Left", "Take a Right"],
+		"propertyType": "Apartment",
+		"propertyOwnership": "Leased",
+		"thinnaiLocation": ["Room"],
+		"amenities": ["Four Wheelers Parking", "Pet Friendly"],
+		"preferredGuests": ["Family Without Kids", "Family With Kids"],
+		"activities": ["Community Gathering", "Special Occasions"],
+		"parkingType": [],
+		"services": ["Pork", "Floor Decor"],
+		"alcoholAllowedFor": ["Family Without Kids"],
+		"maxGuestCount": 6,
+		"directBooking": false,
+		"houseRules": ["Don't bring hate"],
+		"minDuration": 1,
+		"visibility": 30,
+		"ratings": {
+			"good": 0,
+			"neutral": 0,
+			"bad": 0
+		},
+		"happyCustomers": 0,
+		"foodJoints": [],
+		"reviews": [],
+		"hostSchedule": [],
+		"propertyThumbnails": [
+			"thinnai/635ffceb44b3622bbfc17935/84c237c1-b3aa-46a1-ac34-d45cb7956545_image_cropper_1668692294050.jpg",
+			"thinnai/635ffceb44b3622bbfc17935/498d742f-8ec7-42ea-89cb-c8500e9b7989_image_cropper_1668692294834.jpg",
+			"thinnai/635ffceb44b3622bbfc17935/3ccb80dd-7ac3-42b4-97dd-57e0487e0729_image_cropper_1668692299670.jpg",
+			"thinnai/635ffceb44b3622bbfc17935/9a14b7ec-3a4b-4738-9346-71f21d2f185f_image_cropper_1668692304619.jpg",
+			"thinnai/635ffceb44b3622bbfc17935/e77b4d76-9a02-400d-ad81-c4fc5e54fb34_image_cropper_1668692307402.jpg"
+		],
+		"residentialSpaceIn30m": true,
+		"pricing": {
+			"joyHour": [
+				{
+					"lowGuestCount": 1,
+					"highGuestCount": 2,
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 43,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					}
+				},
+				{
+					"lowGuestCount": 3,
+					"highGuestCount": 4,
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 66,
+						"threeAndHalfHour": 55
+					}
+				},
+				{
+					"lowGuestCount": 5,
+					"highGuestCount": 6,
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 5,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 76,
+						"twoAndHalfHour": 36,
+						"threeAndHalfHour": 0
+					}
+				},
+				{
+					"lowGuestCount": 7,
+					"highGuestCount": 8,
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					}
+				}
+			],
+			"galaHour": [
+				{
+					"lowGuestCount": 1,
+					"highGuestCount": 2,
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					}
+				},
+				{
+					"lowGuestCount": 3,
+					"highGuestCount": 4,
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					}
+				},
+				{
+					"lowGuestCount": 5,
+					"highGuestCount": 6,
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 99,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 75,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					}
+				},
+				{
+					"lowGuestCount": 7,
+					"highGuestCount": 8,
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 75,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					}
+				}
+			]
+		}
+	},
+	{
+		"isActive": true,
+		"showProperty": true,
+		"approvalStatus": "pending",
+		"propertyPictures": [
+			"thinnai/6371c0d87e5784a6bea8eaf4/IMG_0790.jpg",
+			"thinnai/6371c0d87e5784a6bea8eaf4/IMG_0793.jpg",
+			"thinnai/6371c0d87e5784a6bea8eaf4/IMG_0797.jpg",
+			"thinnai/6371c0d87e5784a6bea8eaf4/IMG_0798.jpg",
+			"thinnai/6371c0d87e5784a6bea8eaf4/IMG_0813.jpg"
+		],
+		"propertyName": "Colin Wolff zan pin234",
+		"propertyDescription": "Quasi nesciunt velit nesciunt quis ut explicabo 45.",
+		"houseNumber": "skhjskin123",
+		"tower": "lckpton12",
+		"street": "Ludie Extensionsl23",
+		"locality": "Leann Summitp",
+		"landmark": "Streich Ports",
+		"city": "North Brittanyshire",
+		"state": "Colorado",
+		"zipCode": "963717",
+		"thinnaiLocationUrl": "https://dirty-lifetime.org",
+		"directions": ["4199 Isai Port"],
+		"propertyType": "Individual Villa",
+		"propertyOwnership": "Owned",
+		"thinnaiLocation": ["Balcony", "Garage", "Lawn", "Common Area", "Terrace", "Room", "Backyard"],
+		"amenities": ["Oven", "Air Conditioned", "Cutlery", "Drinking Water"],
+		"preferredGuests": ["LGBTQ Friendly", "Men Only", "Men &amp; Women"],
+		"activities": [
+			"Special Occasions",
+			"Reading Clubs",
+			"Workshop",
+			"Remote Work",
+			"Meditation",
+			"Casual Dining",
+			"Community Gathering"
+		],
+		"parkingType": ["No Parking", "Four Wheelers"],
+		"services": ["Floor Decor", "Smoking", "Pork"],
+		"alcoholAllowedFor": [
+			"Allowed For All",
+			"Allowed For None",
+			"Family with kids",
+			"Men and Women",
+			"Couple",
+			"Family without kids",
+			"Men Only",
+			"Women Only"
+		],
+		"maxGuestCount": 9,
+		"directBooking": false,
+		"houseRules": [
+			"Veritatis nihil et qui sed.",
+			"Sunt est quia sint quas corrupti et dolorem ipsa.",
+			"Itaque expedita eos eum consequuntur fugiat eligendi."
+		],
+		"minDuration": 1,
+		"visibility": 30,
+		"ratings": {
+			"good": 0,
+			"neutral": 0,
+			"bad": 0
+		},
+		"happyCustomers": 0,
+		"pricing": {
+			"joyHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 43,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 66,
+						"threeAndHalfHour": 55
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 5,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 76,
+						"twoAndHalfHour": 36,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			],
+			"galaHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 99,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 75,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 75,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			]
+		},
+		"foodJoints": [],
+		"reviews": [],
+		"hostSchedule": []
+	},
+	{
+		"isActive": true,
+		"showProperty": true,
+		"approvalStatus": "pending",
+		"propertyPictures": [
+			"thinnai/6371ca440fb4574d0e741d89/IMG_5520.jpg",
+			"thinnai/6371ca440fb4574d0e741d89/IMG_5526.jpg",
+			"thinnai/6371ca440fb4574d0e741d89/IMG_5559.jpg",
+			"thinnai/6371ca440fb4574d0e741d89/IMG_5587.jpg"
+		],
+		"propertyName": "Taj mumbai",
+		"propertyDescription": "Quasif nesciunt velit nesciunt quis ut explicabo.",
+		"houseNumber": "skh12",
+		"tower": "lck",
+		"street": "Ludie Extensions",
+		"locality": "Leann Summit2",
+		"landmark": "Streich Port1s",
+		"city": "North Brittanyshire",
+		"state": "Colorado",
+		"zipCode": "963717",
+		"thinnaiLocationUrl": "https://dirty-lifetime.org",
+		"directions": ["4199 Isai Port"],
+		"propertyType": "Individual Villa",
+		"propertyOwnership": "Owned",
+		"thinnaiLocation": ["Balcony", "Garage", "Lawn", "Common Area", "Terrace", "Room", "Backyard"],
+		"amenities": ["Oven", "Air Conditioned", "Cutlery", "Drinking Water"],
+		"preferredGuests": ["LGBTQ Friendly", "Men Only", "Men &amp; Women"],
+		"activities": [
+			"Special Occasions",
+			"Reading Clubs",
+			"Workshop",
+			"Remote Work",
+			"Meditation",
+			"Casual Dining",
+			"Community Gathering"
+		],
+		"parkingType": ["No Parking", "Four Wheelers"],
+		"services": ["Floor Decor", "Smoking", "Pork"],
+		"alcoholAllowedFor": [
+			"Allowed For All",
+			"Allowed For None",
+			"Family with kids",
+			"Men and Women",
+			"Couple",
+			"Family without kids",
+			"Men Only",
+			"Women Only"
+		],
+		"maxGuestCount": 9,
+		"directBooking": false,
+		"houseRules": [
+			"Veritatis nihil et qui sed.",
+			"Sunt est quia sint quas corrupti et dolorem ipsa.",
+			"Itaque expedita eos eum consequuntur fugiat eligendi."
+		],
+		"minDuration": 1,
+		"visibility": 30,
+		"ratings": {
+			"good": 0,
+			"neutral": 0,
+			"bad": 0
+		},
+		"happyCustomers": 0,
+		"pricing": {
+			"joyHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 43,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 66,
+						"threeAndHalfHour": 55
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 5,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 76,
+						"twoAndHalfHour": 36,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			],
+			"galaHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 99,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 75,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 75,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			]
+		},
+		"foodJoints": [],
+		"reviews": [],
+		"hostSchedule": []
+	},
+	{
+		"isActive": true,
+		"showProperty": true,
+		"approvalStatus": "pending",
+		"propertyPictures": [
+			"thinnai/6371ca440fb4574d0e741d89/IMG_0479.jpg",
+			"thinnai/6371ca440fb4574d0e741d89/IMG_0487.jpg",
+			"thinnai/6371ca440fb4574d0e741d89/IMG_0488.jpg",
+			"thinnai/6371ca440fb4574d0e741d89/IMG_0493.jpg",
+			"thinnai/6371ca440fb4574d0e741d89/IMG_0497.jpg"
+		],
+		"propertyName": "kolhapur palace",
+		"propertyDescription": "Quasif nesciunt velit nesciunt quis ut explicabo.",
+		"houseNumber": "skh12",
+		"tower": "lck",
+		"street": "Ludie Extensions",
+		"locality": "Leann Summit2",
+		"landmark": "Streich Port1s",
+		"city": "North Brittanyshire",
+		"state": "Colorado",
+		"zipCode": "963717",
+		"thinnaiLocationUrl": "https://dirty-lifetime.org",
+		"directions": ["4199 Isai Port"],
+		"propertyType": "Individual Villa",
+		"propertyOwnership": "Owned",
+		"thinnaiLocation": ["Balcony", "Garage", "Lawn", "Common Area", "Terrace", "Room", "Backyard"],
+		"amenities": ["Oven", "Air Conditioned", "Cutlery", "Drinking Water"],
+		"preferredGuests": ["LGBTQ Friendly", "Men Only", "Men &amp; Women"],
+		"activities": [
+			"Special Occasions",
+			"Reading Clubs",
+			"Workshop",
+			"Remote Work",
+			"Meditation",
+			"Casual Dining",
+			"Community Gathering"
+		],
+		"parkingType": ["No Parking", "Four Wheelers"],
+		"services": ["Floor Decor", "Smoking", "Pork"],
+		"alcoholAllowedFor": [
+			"Allowed For All",
+			"Allowed For None",
+			"Family with kids",
+			"Men and Women",
+			"Couple",
+			"Family without kids",
+			"Men Only",
+			"Women Only"
+		],
+		"maxGuestCount": 9,
+		"directBooking": false,
+		"houseRules": [
+			"Veritatis nihil et qui sed.",
+			"Sunt est quia sint quas corrupti et dolorem ipsa.",
+			"Itaque expedita eos eum consequuntur fugiat eligendi."
+		],
+		"minDuration": 1,
+		"visibility": 30,
+		"ratings": {
+			"good": 0,
+			"neutral": 0,
+			"bad": 0
+		},
+		"happyCustomers": 0,
+		"pricing": {
+			"joyHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 43,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 66,
+						"threeAndHalfHour": 55
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 5,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 76,
+						"twoAndHalfHour": 36,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			],
+			"galaHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 99,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 75,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 75,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			]
+		},
+		"foodJoints": [],
+		"reviews": [],
+		"hostSchedule": []
+	},
+	{
+		"isActive": true,
+		"showProperty": true,
+		"approvalStatus": "approved",
+		"propertyPictures": [
+			"thinnai/6373421fdceba949cc2c67aa/IMG_0403.jpg",
+			"thinnai/6373421fdceba949cc2c67aa/IMG_0408.jpg",
+			"thinnai/6373421fdceba949cc2c67aa/IMG_0425.jpg",
+			"thinnai/6373421fdceba949cc2c67aa/IMG_0462.jpg",
+			"thinnai/6373421fdceba949cc2c67aa/IMG_0708.jpg"
+		],
+		"propertyName": "Pune Musium",
+		"propertyDescription": "The visitor literally 'walks' into a scene and the scene 'plays out' before your eyes! Each scene is brought to life through realistic sets, and within the set are various props that help to recreate the scene before you",
+		"houseNumber": "1",
+		"tower": "lak",
+		"street": "Ludie Extensions",
+		"locality": "Leann Summit2",
+		"landmark": "Streich Port1s",
+		"city": "Pune",
+		"state": "Colorado",
+		"zipCode": "963717",
+		"thinnaiLocationUrl": "https://dirty-lifetime.org",
+		"directions": ["4199 Isai Port"],
+		"propertyType": "Individual Villa",
+		"propertyOwnership": "Owned",
+		"thinnaiLocation": ["Balcony", "Garage", "Lawn", "Common Area", "Terrace", "Room", "Backyard"],
+		"amenities": ["Oven", "Air Conditioned", "Cutlery", "Drinking Water"],
+		"preferredGuests": ["LGBTQ Friendly", "Men Only", "Men &amp; Women"],
+		"activities": [
+			"Special Occasions",
+			"Reading Clubs",
+			"Workshop",
+			"Remote Work",
+			"Meditation",
+			"Casual Dining",
+			"Community Gathering"
+		],
+		"parkingType": ["No Parking", "Four Wheelers"],
+		"services": ["Floor Decor", "Smoking", "Pork"],
+		"alcoholAllowedFor": [
+			"Allowed For All",
+			"Allowed For None",
+			"Family with kids",
+			"Men and Women",
+			"Couple",
+			"Family without kids",
+			"Men Only",
+			"Women Only"
+		],
+		"maxGuestCount": 9,
+		"directBooking": false,
+		"houseRules": [
+			"Veritatis nihil et qui sed.",
+			"Sunt est quia sint quas corrupti et dolorem ipsa.",
+			"Itaque expedita eos eum consequuntur fugiat eligendi."
+		],
+		"minDuration": 1,
+		"visibility": 30,
+		"ratings": {
+			"good": 0,
+			"neutral": 0,
+			"bad": 0
+		},
+		"happyCustomers": 0,
+		"pricing": {
+			"joyHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 43,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 66,
+						"threeAndHalfHour": 55
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 5,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 76,
+						"twoAndHalfHour": 36,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			],
+			"galaHour": [
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 1,
+					"highGuestCount": 2
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 3,
+					"highGuestCount": 4
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 99,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 75,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 5,
+					"highGuestCount": 6
+				},
+				{
+					"withAlcohol": {
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 75,
+						"threeAndHalfHour": 0,
+						"four": 0
+					},
+					"withoutAlcohol": {
+						"oneHour": 0,
+						"oneAndHalfHour": 0,
+						"twoAndHalfHour": 0,
+						"threeAndHalfHour": 0
+					},
+					"lowGuestCount": 7,
+					"highGuestCount": 8
+				}
+			]
+		},
+		"foodJoints": [],
+		"hostSchedule": []
+	}
+]

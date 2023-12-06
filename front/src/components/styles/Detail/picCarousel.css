@@ -1,0 +1,62 @@
+@import '~slick-carousel/slick/slick.css';
+@import '~slick-carousel/slick/slick-theme.css';
+.photoCarousel .slick-initialized .slick-list {
+  overflow: visible;
+}
+.photoCarousel .slick-initialized .slick-slide {
+  transform: scale(1.2);
+  transition: transform 300ms;
+  position: relative;
+}
+.photoCarousel .slick-initialized .slick-center,
+.photoCarousel .slick-current {
+  transform: scale(1.5);
+  opacity: 1;
+  position: relative;
+  z-index: 2;
+}
+
+.imagePreview {
+  z-index: 6;
+}
+.imagePreview .styles-module_wrapper {
+  z-index: 3;
+}
+.imagePreview .styles-module_close {
+  opacity: 2 !important;
+}
+
+.styles-module_wrapper {
+  z-index: 3;
+}
+
+.swiper {
+  z-index: 0;
+}
+
+#ReactSimpleImageViewer .styles-module_navigation {
+  opacity: 2 !important;
+  font-size: 35px !important;
+}
+
+.react-simple-image-viewer__next {
+  opacity: 2 !important;
+  font-size: 35px !important;
+  top: 30% !important;
+}
+@media screen and (width < 600px) {
+  .react-simple-image-viewer__next {
+    top: 50% !important;
+  }
+}
+
+.react-simple-image-viewer__previous {
+  opacity: 2 !important;
+  font-size: 35px !important;
+  top: 30% !important;
+}
+@media screen and (width < 600px) {
+  .react-simple-image-viewer__previous {
+    top: 50% !important;
+  }
+}/*# sourceMappingURL=picCarousel.css.map */

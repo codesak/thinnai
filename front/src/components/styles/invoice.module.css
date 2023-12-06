@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+:root {
+    --ff-primary: 'Inter', sans-serif;
+}
+.invoiceContainer :global(*) {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.invoiceContainer {
+    font-family: var(--ff-primary);
+    padding: 1rem;
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.firstHr {
+    border-top: 1px solid black;
+}
+
+@media screen and (min-width: 900px) {
+    .invoiceContainer {
+        padding: 2rem;
+    }
+}
+
+.title {
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 20px;
+    margin-top: 1rem;
+}
+
+@media screen and (min-width: 768px) {
+    .title {
+        font-size: 1.5rem;
+        margin-top: 2rem;
+    }
+}
+
+.officeWrapper {
+    display: inline-block;
+    margin-top: 0.75rem;
+}
+
+.officeAddress {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.375rem;
+    margin-bottom: 0.75rem;
+    margin-top: 0.75rem;
+}
+.icon {
+    font-size: 1.2rem !important;
+}
+
+@media screen and (min-width: 768px) {
+    .icon {
+        font-size: 1.5rem !important;
+    }
+}
+
+
+.officeAddress p {
+    color: #687076;
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+@media screen and (min-width: 768px) {
+    .officeAddress {
+        align-items: center;
+    }
+    .officeAddress p {
+    font-size: 1rem;
+
+    }
+}
+
+.officeContact {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.75rem;
+    margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 768px) {
+    .officeContact {
+        font-size: 1rem;
+    }
+}
+.officeContact div {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.officeContact div p {
+    color: #687076;
+}
+
+/* Booking Details */
+
+.bookingDetails {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.bookingDetails h2 {
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 768px) {
+    .bookingDetails h2 {
+        font-size: 1.5rem;
+    }
+}
+
+.bookingWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1.5rem;
+}
+
+@media screen and (min-width: 768px) {
+    .bookingWrapper {
+        flex-direction: row;
+    }
+}
+
+.bookingWrapper div:first {
+    font-weight: 500;
+    color: #687076;
+}
+
+.invoiceContainer2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+@media screen and (min-width: 768px) {
+    .invoiceContainer2 {
+        justify-content: flex-start;
+    }
+}
+
+.invoiceContainer2 div:first-child p{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.invoiceContainer2 div:last-child p{
+    color: #687076;
+    font-weight: 500;
+}
+
+.taxWrapper {
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.taxInvoice {
+    margin-bottom: 2rem;
+}
+.taxInvoice h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.taxHeader {
+    background-color: #EAE7FF;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.75rem 1rem;
+}
+
+.taxHeader h4 {
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.taxBody {
+    padding: 1.2rem 1rem;
+    padding-bottom: 0;
+}
+
+.taxBody div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+}
+
+.taxBody div p {
+    font-weight: 500;
+    color: #687076;
+}
+
+.taxBody div:last-child {
+    margin-bottom: 0;
+}
+
+.taxBody hr {
+    margin-top: 1rem;
+    border-top: 1px solid black;
+}
+
+.total {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.2rem 1rem;
+}
+
+.total h4 {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.paidBy {
+
+}
+
+.paidBy h4 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.paidBy p {
+    font-weight: 500;
+    color: #687076;
+}
+
+.btnContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+.button {
+    background-color: transparent;
+    border: none;
+    width: 150px;
+    background-color: red;
+    display: inline-block;
+    height: 2.5rem;
+    border-radius: 0.3rem;
+    color: white;
+    background-color: #9a88ff;
+    margin-bottom: 1rem;
+    outline: none;
+}

@@ -1,0 +1,82 @@
+@import '~slick-carousel/slick/slick.css';
+@import '~slick-carousel/slick/slick-theme.css';
+.locationCarousel .slick-initialized {
+  height: 100% !important;
+}
+.locationCarousel .slick-initialized .slick-list {
+  height: 100% !important;
+}
+.locationCarousel .slick-initialized .slick-slide {
+  transform: scale(1);
+  transition: transform 300ms;
+  opacity: 1;
+  position: relative;
+  height: 100% !important;
+}
+.locationCarousel .slick-initialized .slick-slide div {
+  height: 100%;
+}
+@media screen and (max-width: 600px) {
+  .locationCarousel .slick-initialized .slick-slide div {
+    height: 97%;
+  }
+}
+.locationCarousel .slick-initialized .slick-track {
+  height: 100% !important;
+}
+.locationCarousel .slick-initialized .slick-select img {
+  transform: scale(1.3);
+}
+.locationCarousel .slick-initialized .slick-select::after {
+  background: #8f7ef3;
+  height: 2px;
+  width: 50px;
+  content: "";
+  display: block;
+  position: relative;
+  bottom: 0;
+  top: -5px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 6px;
+}
+@media screen and (width < 660px) {
+  .locationCarousel .slick-initialized .slick-select::after {
+    top: -10px;
+  }
+}
+.locationCarousel .nearme {
+  transition: all 0.3s ease-in-out;
+  padding-left: 1.2rem;
+}
+@media screen and (width < 660px) {
+  .locationCarousel .nearme {
+    margin-top: 1.4rem;
+    padding-left: 0rem;
+  }
+}
+.locationCarousel .selected::after {
+  background: #8f7ef3;
+  height: 2px;
+  width: 50px;
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  top: 4.5rem;
+  border-radius: 6px;
+  transform: scaleY() 300ms ease-in;
+}
+@media screen and (width < 660px) {
+  .locationCarousel .selected::after {
+    top: 3.9rem;
+  }
+}
+@media screen and (width > 1530px) {
+  .locationCarousel .selected::after {
+    top: 5.2rem;
+  }
+}
+.locationCarousel .slick-track {
+  margin-left: 0 !important;
+}/*# sourceMappingURL=locationCarousel.css.map */

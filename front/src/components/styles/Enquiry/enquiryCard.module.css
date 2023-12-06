@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+:root {
+    --ff-primary: 'Inter', sans-serif;
+    --ff-secondary: 'Montserrat', sans-serif;
+}
+
+.cardContainer {
+    margin-top: 1rem !important;
+}
+.profileWrapper {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.imgContainer {
+   
+}
+
+.imgContainer img {
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+}
+
+.profileInfo {
+    font-family: var(--ff-primary);
+}
+.profileInfo h2{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.profileInfo p {
+    font-size: 0.875rem;
+    font-weight: 400;
+}
+
+.bookingRequested {
+    display: none;   
+}
+
+@media screen and (min-width: 768px) {
+    .bookingRequested {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin-bottom: 0.75rem !important;
+    }
+}
+
+.detailsWrapper {
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+    margin-left: 24px !important;
+    border-left: 2px solid #D9D9D9;
+    padding-left: 24px !important;
+    padding-block: 1rem !important;
+}
+
+.enquiryBar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem !important;
+}
+
+.enquiryBar h4 {
+    font-size: 0.75rem;
+    font-family: var(--ff-secondary);
+    font-weight: 600;
+}
+
+.pending {
+    background-color: #F2F0DF;
+}
+
+.cancelled {
+    background-color: #E9EBE9;
+}

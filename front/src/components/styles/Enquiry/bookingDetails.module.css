@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+:root {
+    --ff-primary: 'Montserrat', sans-serif;
+    --ff-secondary: 'Open Sans', sans-serif;
+}
+.mainContainer {
+    
+}
+
+.title {
+    font-family: var(--ff-primary);
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.titleWrapper {
+    margin-bottom: 1rem;
+}
+
+.divider {
+    margin-block:1rem !important;
+}
+
+@media screen and (min-width: 768px) {
+    .divider {
+        margin-block:2rem !important;
+    }
+}
+
+.dataContainer {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.dataContainer:first-child {
+    margin-bottom: 0.5rem;
+}
+.singleData {
+    display: flex;
+    align-items: center;
+}
+
+.singleData h4 {
+    font-family: var(--ff-secondary);
+    font-size: 0.875rem;
+    font-weight: 600;
+    width: 50%;
+}
+
+.singleData p {
+    font-size: 0.875rem;
+}
+
+.key {
+    font-family: var(--ff-secondary);
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+
+.value {
+    font-family: var(--ff-secondary);
+    font-size: 0.75rem;
+    color: #6053AE;
+    
+}
+@media screen and (min-width: 420px) {
+    .key {
+        font-size: 0.875rem;
+    }
+    .value {
+        font-size: 0.875rem;
+    }
+}
+@media screen and (min-width: 1098px) {
+    .key {
+        font-size: 1rem;
+    }
+    .value {
+        font-size: 1rem;
+    }
+}
+
+
+.table tr:first-child {
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,13 @@
+.main {
+    width: 100%;
+    height: 6px;
+    position: relative;
+    left: 50%;
+}
+.green {
+    background-color: #A2E898;
+}
+
+.red {
+    background-color: #EBA5A5;
+}

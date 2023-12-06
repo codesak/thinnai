@@ -1,0 +1,55 @@
+.app__tag-item-container .app__tag-item {
+  padding: 1px;
+  display: flex;
+  gap: 5px;
+  display: flex;
+  min-width: 50px;
+  align-items: center;
+  margin: 0 6px 0 6px;
+  padding: 8px;
+  border-radius: 6px;
+}
+.app__tag-item-container .app__tag-item div {
+  height: 6px;
+  width: 6px;
+  border-radius: 50%;
+  background: #DFDAFF;
+}
+.app__tag-item-container .app__tag-item .app__tag-text {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: -0.065em;
+}
+.app__tag-item-container .app__tag-item .app__tag-close {
+  display: flex;
+  justify-content: center;
+  width: 12px;
+  height: 12px;
+  font-size: 55%;
+  cursor: pointer;
+  background-color: #DFDAFF;
+  border-radius: 50%;
+}
+
+.app__tags-input-container {
+  height: 44.59px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 0.5px solid #383838;
+  border-radius: 5px;
+  padding: 8px 10px 8px 10px;
+}
+.app__tags-input-container .app__tags-input-field {
+  display: flex;
+  flex: 1;
+}
+.app__tags-input-container .app__tags-input-field input {
+  width: 100%;
+  height: 40px;
+  border: none;
+  outline: none;
+}/*# sourceMappingURL=tagInput.css.map */

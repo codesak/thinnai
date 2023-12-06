@@ -1,0 +1,20 @@
+{
+  "mongoURI": "mongodb+srv://thinnaiUserDev:thinnaiUserDev@prod-cluster.goe8fsq.mongodb.net/thinnai-prod?retryWrites=true&w=majority",
+  "redisDevURI": "redis://Dev:CBgucJ@2bpiAb9A@redis-12705.c301.ap-south-1-1.ec2.cloud.redislabs.com:12705",
+  "avatarBaseURI": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=",
+  "jwtSecret": "fwm349z#$()8zjfrwm43",
+  "clientOrigin": "scaffold.example.com",
+  "serverPort": 5001,
+  "fromMailId": "prashant@example.com",
+  "fromMailName": "Prashant",
+  "mailHost": "mail.example.com",
+  "smtpPassword": "secret",
+  "smtpUser": "user",
+  "merchantId": "2018186",
+  "workingKey": "048BA0E5825575011C9734745BF5A59D",
+  "accessCode": "AVMJ04KD77AF28JMFA",
+  "redirectURL": "https://canary.bookmythinnai.com/api/ccavenue/redirect-url",
+  "cancelURL": "https://canary.bookmythinnai.com/api/ccavenue/cancel-url",
+  "frontendRedirectURL": "https://canary.bookmythinnai.com/payment-status",
+  "repaymentRedirectURL": "https://canary.bookmythinnai.com/api/ccavenue/repayment/redirect-url"
+}

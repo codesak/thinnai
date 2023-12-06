@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.profile-body{
+    margin: 0 auto !important;
+    width: 65vw !important;
+    padding: 10vh 24px !important;
+    // @media screen and (min-width:'1128px')
+    // {
+    //     max-width: 1080px !important;
+    // }
+    // @media screen and (min-width:"744px") {
+    //     max-width: 696 !important;        
+    // }
+}
+@media screen and (width<600px) {
+    .profile-body{
+      width: 100vw !important;
+    }
+  }
+.Account-font{
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    line-height: 44px;
+    color: #333232;
+
+
+;
+}

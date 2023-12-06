@@ -1,0 +1,115 @@
+.share-modal {
+  position: absolute;
+  z-index: 9999;
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 0 5px #eee;
+  transform: translateY(-200%);
+  transition: 0.2s cubic-bezier(0.165, 0.84, 0.44, 1);
+  border-radius: 12px;
+}
+@media screen and (width < 600px) {
+  .share-modal {
+    border-radius: 12px 12px 0 0;
+  }
+}
+
+.share-modal.opened {
+  background: #0f0f0f;
+  transform: translateY(0%);
+}
+
+/* modals sections*/
+.modal-header,
+.modal-body {
+  display: flex;
+  padding: 20px;
+}
+
+.modal-footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 10px;
+}
+@media screen and (width < 600px) {
+  .modal-footer {
+    padding: 10px 5px;
+  }
+}
+
+.modal-header {
+  justify-content: space-between;
+  padding: 15px 20px;
+}
+
+.modal-title {
+  align-self: center;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.modal-body {
+  display: flex;
+  gap: 1.1rem;
+}
+.modal-body .__link__to .__img__container {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.modal-body .__link__to .__img__container img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+/* .modal-footer {
+} */
+.modal-footer-link {
+  align-self: center;
+  background: #eee;
+  padding: 10px 15px;
+  margin-right: 10px;
+  border-radius: 4px;
+  text-transform: lowercase;
+  letter-spacing: 2px;
+  font-size: 0.8rem;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 380px;
+  text-overflow: ellipsis;
+  outline: none;
+}
+@media screen and (width < 600px) {
+  .modal-footer-link {
+    width: 70vw;
+  }
+}
+
+.modal-footer-button {
+  flex: 0 0 auto;
+  text-transform: uppercase;
+  color: #fff;
+  background: #0f0f0f;
+  border-radius: 10px;
+  width: 60px;
+  height: 40px;
+  font: normal 400 12px/12px Montserrat;
+}
+@media screen and (width < 600px) {
+  .modal-footer-button {
+    width: 18vw;
+  }
+}
+
+.close-button {
+  border: none;
+  background-color: #0f0f0f;
+  color: #fff;
+  line-height: 20px;
+  font-size: 30px;
+}/*# sourceMappingURL=sharemodal.css.map */

@@ -1,0 +1,11 @@
+.mainContainer {
+    width: 100%;
+    max-width: 1170px;
+}
+
+.title {
+    text-align: center;
+    margin-block: 1rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+}

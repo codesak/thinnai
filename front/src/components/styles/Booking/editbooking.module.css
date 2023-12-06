@@ -1,0 +1,94 @@
+
+
+.container {
+
+}
+
+@media screen and (min-width: 900px) {
+    .container {
+        border: 1px solid #C5C5C5;
+        box-shadow: 2px 4px 8px 7px rgba(0, 0, 0, 0.04);
+        border-radius: 20px;
+        padding: 2rem;
+        margin-top: 1.3rem;
+    }
+}
+
+.priceChange {
+    border: 0.5px solid #000000;
+    border-radius: 6px;
+    display: flex;
+    padding: 1.2rem;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2.5rem;
+    margin-top: 2rem;
+}
+
+.priceChange * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.priceChange h4 {
+    font-size: 1.5rem;
+}
+
+.priceChange p {
+    font-weight: 700;
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.services {
+
+}
+
+.servicesWithCharge {
+    margin-top: 2rem;
+}
+
+.servicesWithCharge {
+    
+}
+
+.servicesWithCharge h5{
+    margin-bottom: 0;
+}
+
+.servicesWithCharge p {
+    font-size: 1rem;
+    color: #707B8E;
+}
+
+.next {
+    background-color: #000000;
+    color: white;
+    margin-top: 1.5rem;
+    border: none;
+    border-radius: 6px;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    width: 50%;
+}
+
+.amountPaid {
+    margin-top: 1.5rem;
+}
+
+.btnContainer {
+    display: flex;
+    gap: 1rem;
+}
+
+.cancel {
+    background-color: white;
+    color: black;
+    width: 50%;
+    border: 2px solid black;
+}

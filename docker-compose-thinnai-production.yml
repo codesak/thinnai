@@ -1,0 +1,13 @@
+version: '3.9'
+services:
+  thinnai-production:
+    image: 'thinnai-production:latest'
+    ports:
+      - '7023:6099'
+    networks:
+      - thinnai-network
+
+networks:
+  thinnai-network:
+    driver: bridge
+    external: true

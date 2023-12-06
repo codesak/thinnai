@@ -1,0 +1,32 @@
+.container {
+    
+}
+@media screen and (min-width: 900px) {
+    .container {
+        display: inline-flex;
+        gap: 2rem;
+        align-items: center;
+        border: 1px solid #868686;
+        padding: 2rem;
+        border-radius: 1rem;
+    }
+
+}
+
+@media screen and (min-width: 900px) {
+    .imgContainer {
+        max-width: 255px;
+    }
+}
+
+.imgContainer img {
+    width: 100%;
+}
+
+.info {
+
+}
+
+.info p {
+    max-width: 400px;
+}

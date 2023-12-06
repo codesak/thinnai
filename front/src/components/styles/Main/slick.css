@@ -1,0 +1,10 @@
+.slick-prev:before, .slick-next:before {
+  color: #8F7EF3 !important;
+}
+
+.dates-count .slick-next {
+  right: -35px;
+}
+.dates-count .slick-prev {
+  left: -35px;
+}/*# sourceMappingURL=slick.css.map */

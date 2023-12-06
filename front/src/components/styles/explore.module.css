@@ -1,0 +1,28 @@
+@media screen and (max-width:900px) {
+    .mobileHeaderWrapper {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 16px;
+    }
+}
+
+
+.cartContainer {
+    width: 30px;
+    margin-right: 20px;
+}
+
+.cartContainer img {
+    width: 100%;
+}
+
+@media screen and (min-width: 900px) {
+    .cartContainer {
+        display: none;
+    }
+    
+    .cartContainer img {
+        width: 100%;
+    }
+}

@@ -1,0 +1,28 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+@media screen and (max-width: 900px) {
+  .timeCarousel .slick-initialized {
+    height: 100% !important;
+  }
+}
+.timeCarousel .slick-initialized .slick-slide div {
+  display: flex !important;
+  flex-direction: column !important;
+}
+.timeCarousel .slick-initialized .slick-slide div .time {
+  transform: scale(2.2);
+}
+@media screen and (max-width: 972px) {
+  .timeCarousel .slick-initialized .slick-list {
+    padding-bottom: 5rem !important;
+  }
+}
+@media screen and (max-width: 900px) {
+  .timeCarousel .slick-initialized .slick-list {
+    height: 100% !important;
+  }
+}
+.timeCarousel .slick-prev:before, .timeCarousel .slick-next:before {
+  color: #B3EBAB !important;
+  font-size: 1.5rem;
+}/*# sourceMappingURL=timeCarousel.css.map */

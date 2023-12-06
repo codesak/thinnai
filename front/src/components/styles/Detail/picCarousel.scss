@@ -1,0 +1,89 @@
+@import '~slick-carousel/slick/slick.css';
+@import '~slick-carousel/slick/slick-theme.css';
+
+.photoCarousel {
+	.slick-initialized .slick-list {
+		overflow: visible;
+		// overflow-x: hidden;
+	}
+	.slick-initialized .slick-slide {
+		transform: scale(1.2);
+		transition: transform 300ms;
+		position: relative;
+	}
+
+	.slick-initialized .slick-center,
+	.slick-current {
+		transform: scale(1.5);
+		opacity: 1;
+		position: relative;
+		z-index: 2;
+	}
+}
+
+// .imagePreview{
+// 	.styles-module_wrapper{
+// 		z-index: 3;
+// 	}
+// 	z-index: 6;
+// 	.styles-module_close{
+// 		opacity: 2!important;
+// 	}
+	
+// }
+// .styles-module_wrapper{
+// 	z-index: 3;
+// }
+
+// .swiper{
+// 	z-index: 0;
+// }
+
+// #ReactSimpleImageViewer{
+// 	.styles-module_navigation{
+// 		opacity: 2!important;
+// 		font-size: 35px!important;
+// 	}
+// }
+// .react-simple-image-viewer__next{
+// 	opacity: 2!important;
+// 		font-size: 35px!important;
+// 		top:30%!important;
+// 		@media screen and (width<600px) {
+// 			top:50%!important;	
+// 		}
+// }
+// .react-simple-image-viewer__previous{
+// 	opacity: 2!important;
+// 	font-size: 35px!important;
+// 	top:30%!important;
+// 	@media screen and (width<600px) {
+// 		top:50%!important;	
+// 	}
+// }
+
+.button__{
+	color: antiquewhite;
+	cursor: pointer;
+	align-self: flex-end;
+}
+
+.imgView{
+	.image-gallery{
+		margin: 40px 0px;
+	}
+}
+@media screen and (width>900px) {
+	.image-gallery-right-nav .image-gallery-svg{
+		height: 75px!important;
+	}
+	.image-gallery-left-nav .image-gallery-svg{
+		height: 75px!important;
+	}
+}
+
+
+
+
+
+

@@ -1,0 +1,222 @@
+.detail__p {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 0.9rem !important;
+	line-height: 1.88em;
+
+	color: #686e7d;
+	@media screen and (max-width: '600px') {
+		font-size: 0.95rem !important;
+	}
+}
+.detail__header {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 1.4rem;
+	line-height: 1.9em;
+	width: 100%;
+	color: #383838;
+	@media screen and (max-width: '600px') {
+		font-size: 1.15rem !important;
+	}
+}
+
+//Accordin
+
+.faq-container {
+	box-shadow: none !important;
+	margin: 0 !important;
+}
+
+.faq-sumary-title {
+	min-height: 82px !important;
+	.Mui-expanded {
+		p {
+			font-weight: 600;
+			color: #272f3d;
+		}
+	}
+}
+
+.Accordin__head {
+	font-family: 'Open Sans' !important;
+	font-style: normal !important;
+	font-weight: 400 !important;
+	font-size: 1.05rem !important;
+	line-height: 1.5em !important;
+
+	color: #656565;
+	@media screen and (max-width: '600px') {
+		font-size: 0.95rem !important;
+	}
+	@media screen and (max-width: '390px') {
+		font-size: 0.71rem !important;
+	}
+}
+
+//Book
+
+.book__header {
+	font-weight: 600;
+	font-size: 1.1rem;
+	line-height: 29px;
+
+	color: #272f3d;
+}
+.book__timing-head {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 0.75rem;
+	line-height: 22px;
+	color: #656565;
+}
+.book__timing-p {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 600;
+	// font-size: 1rem;
+	font-size: 1.05vw;
+	line-height: 27px;
+
+	color: #383838;
+	@media screen and (width<600px) {
+		font-size: 4.05vw;
+	}
+}
+
+//About Place
+.aboutPlace__header {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 1.4rem;
+	line-height: 39px;
+
+	color: #383838;
+	@media screen and (max-width: '600px') {
+		font-size: 1.2rem !important;
+	}
+}
+
+.aboutPlace__p {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 0.96rem;
+	line-height: 1.65em;
+
+	color: #383838;
+	@media screen and (max-width: '600px') {
+		font-size: 0.95rem !important;
+	}
+}
+.pricing-container {
+	padding-left: 5vw;
+	padding-right: 5vw;
+	@media screen and (max-width: '600px') {
+		padding-left: 0vw;
+		padding-right: 0vw;
+		.pricing-slider-container {
+			padding-left: 10vw;
+			padding-right: 10vw;
+		}
+	}
+	.price-time-container {
+		padding: 25px 0px;
+		border-radius: 8px;
+		@media screen and (max-width: '600px') {
+			padding: 0.5rem 0.5rem;
+		}
+	}
+	.pricing-hour-container {
+		@media screen and (max-width: '600px') {
+			padding: 0.1rem 0;
+		}
+	}
+}
+//Search
+.search {
+	animation: drop 0.8s;
+	transition: 0.8s ease-in-out;
+	@keyframes drop {
+		from {
+			transform: translateY(-22%);
+		}
+		to {
+			transform: translateY(0%);
+		}
+	}
+}
+.search-overlay {
+	// transition: 0.8s ease-in-out;
+	animation: view 0.5s;
+	@keyframes view {
+		from {
+			opacity: 0.2;
+		}
+		to {
+			opacity: 1;
+		}
+	}
+}
+//detail-expand
+.detail-expand-cont {
+	clip-path: polygon(25% 50%, 75% 50%, 100% 100%, 0% 100%);
+}
+.detail-expand {
+	clip-path: polygon(25% 50%, 75% 50%, 100% 100%, 0% 100%);
+}
+
+.detail-bill {
+	animation: bill 0.5s;
+	@keyframes bill {
+		from {
+			transform: translateY(100%);
+		}
+		to {
+			transform: translateY(0%);
+		}
+	}
+}
+
+.gala_hours::before {
+	content: 'Offer Price';
+	display: flex;
+	width: 150px;
+	height: 45px;
+	background-color: #0B6A31;
+	position: absolute;
+	left: 0;
+	top: 20px;
+	justify-content: center;
+	align-items: center;
+	color: #ffffff;
+	font-size: 17px;
+	font-weight: 600;
+}
+
+.gala_hours::after {
+	content: '';
+	display: flex;
+	width: 42px;
+	height: 42px;
+	background-color: #fefcef;
+	position: absolute;
+	left: 132px;
+	top: 22px;
+	justify-content: center;
+	align-items: center;
+	color: #000000;
+	font-size: 17px;
+	font-weight: 600;
+	transform: rotate(46deg);
+}
+.image__Preview{
+	z-index: 7;
+	position: absolute;
+}
+
+

@@ -1,0 +1,43 @@
+{
+	//Write response to JSON file
+	"writeToJSON": true,
+
+	//Max number of host users
+	"hostUserCount": 3,
+	//Max number of guest users
+	"guestUserCount": 14,
+	//Max number of reviews per guest user (should be less than or equal to hostUsers)
+	"reviewsPerGuest": 3,
+	//Max number of properties per host user
+	"propertiesPerHost": 2,
+
+	//Total number of inquiries should be less than or equal to guestUsers
+	//Max number of pending inquiries per guest (should be less than or equal to guestUsers)
+	"pendingInquiries": 2,
+	//Max number of confirmed inquiries per guest (should be less than or equal to guestUsers)
+	"confirmedInquiries": 6,
+	//Max number of cancelled inquiries by host per guest (should be less than or equal to guestUsers)
+	"cancelledInquiriesByHost": 2,
+	//Max number of cancelled inquiries by guest per guest (should be less than or equal to guestUsers)
+	"cancelledInquiriesByGuest": 2,
+	//Max number of completed inquiries per guest (should be less than or equal to guestUsers)
+	"completedInquiries": 2,
+
+	//Total number of bookings should be less than or equal to confirmedInquiries
+	//Max number of confirmed bookings per guest (should be less than or equal to confirmedInquiries)
+	"confirmedBookings": 2,
+	//Max number of cancelled bookings by host per guest (should be less than or equal to confirmedInquiries)
+	"cancelledBookingsByHost": 2,
+	//Max number of cancelled bookings by guest per guest (should be less than or equal to confirmedInquiries)
+	"cancelledBookingsByGuest": 2,
+	//Max number of completed bookings per guest (should be less than or equal to confirmedInquiries)
+	"completedBookings": 2,
+
+	//Max number of host reviewed by guest per guest (should be less than or equal to completedBookings)
+	"hostReviewedByGuest": 2,
+	//Max number of property reviewed by guest per guest (should be less than or equal to completedBookings)
+	"propertyReviewedByGuest": 2,
+	//Max number of guest reviewed by host per guest (should be less than or equal to completedBookings)
+	"guestReviewedByHost": 2
+}
+

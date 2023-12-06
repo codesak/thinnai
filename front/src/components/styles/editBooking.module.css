@@ -1,0 +1,141 @@
+.mainContainer {
+    margin:1.5rem;
+	min-height: 100vh
+}
+
+
+
+.mobileNav {
+    display: flex;
+    gap: 1rem;
+}
+
+.mobileNav h4 {
+    font-weight: 700;
+}
+
+.propImgContainer {
+
+}
+
+.propImgContainer img {
+    width: 100%;
+    border-radius: 0.5rem;
+    max-height: 225px;
+    object-fit: cover;
+}
+
+/* Details */
+.detailsContainer {
+
+}
+
+.detailsWrapper {
+    margin-top: 1rem;
+}
+.groupBtn {
+    display: inline-flex;
+    padding: 0.2rem 1rem;
+    gap: 2rem;
+    align-items: baseline;
+    border: 1px solid #868686;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+}
+
+.groupBtn button{
+    background-color: transparent;
+    border: none;
+    font-weight: 500;
+}
+.groupBtn h6 {
+    margin: 0;
+    font-weight: 700;
+}
+
+.cardsContainer {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.permitOne {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.permitOne h5 {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+/* Bottom Nav */
+.proceedContainer {
+	z-index: 999;
+	position: fixed;
+    left: 0;
+	bottom: 0;
+	width: 100%;
+	box-shadow: 0px -8px 17px rgba(0, 0, 0, 0.16);
+}
+.mobileProceedBar {
+	background-color: white;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 15px 40px;
+}
+
+@media screen and (min-width: 900px) {
+	.mobileProceedBar {
+		display: none;
+	}
+}
+.priceContainer {
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	font-family: var(--ff-primary);
+}
+
+.priceContainer p {
+    margin: 0;
+	color: #656565;
+}
+.discountedPrice {
+	font-size: 18px;
+	font-weight: 600;
+	font-family: var(--ff-primary);
+	align-self: flex-start;
+}
+.originalPrice {
+	font-size: 12px;
+	font-weight: 600;
+	align-self: flex-start;
+}
+
+.originalPrice span:first-child {
+	text-decoration: line-through;
+	color: #656565;
+}
+
+.proceedBtn {
+	font-size: 12px;
+	font-weight: 600;
+	font-family: var(--ff-primary);
+	padding: 12px 24px;
+	line-height: 16px;
+	background-color: #272F3D;
+	color: white;
+	border-radius: 8px;
+	border: none;
+}
+
+.additionalCard {
+
+}
+
+.additionalServiceWrapper {
+	display: flex;
+	align-items: center;
+}

@@ -1,0 +1,25 @@
+.swiper-pagination-bullet {
+  background-color: white;
+}
+
+.swiper-button-next:after, .swiper-button-prev:after{
+ // content:url('../../../../public/assets/images/nextbutton.svg');
+ // color: #fff;
+ display: none;
+
+}
+.swiper-button-prev:after{
+ // transform: rotate(180deg);
+ display: none;
+}
+
+@media (min-width: 2400px) {
+  .mySwiper{
+    height: 26vh !important;
+  }
+}
+@media (min-width: 2600px) {
+  .mySwiper{
+    height: 20vh !important;
+  }
+}

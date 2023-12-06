@@ -1,0 +1,27 @@
+
+.mainContainer {
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mobileNav {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+@media screen and (min-width: 600px) {
+    .mobileNav {
+        display: none;
+    }
+}
+
+.mobileNav h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 1.75rem;
+}
+
+.mobileNav div {
+    padding: 1.25rem;
+}

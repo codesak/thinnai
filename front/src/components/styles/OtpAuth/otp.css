@@ -1,0 +1,99 @@
+html {
+  overflow-x: hidden;
+}
+
+.circle {
+  position: absolute;
+  border-radius: 50%;
+  aspect-ratio: 1/1;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.openSans {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+}
+
+.data-form .input-field {
+  height: 42.51px;
+  outline: none;
+  border-radius: 6px;
+  border: solid #383838 0.5px;
+  padding-left: 15.4px;
+  width: 100%;
+  font-size: 1.2rem;
+}
+@media (min-width: 768px) {
+  .data-form .input-field {
+    font-size: 1rem;
+  }
+}
+
+.data-form .label {
+  font-family: "Open Sans";
+  margin-bottom: 5.98px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #1a191e;
+}
+
+.error-msg {
+  font-size: 10px;
+  color: red;
+}
+
+.data-form__or::before {
+  content: "";
+  position: absolute;
+  left: 0px;
+  bottom: 8px;
+  height: 0.5px;
+  width: 45%;
+  background-color: #d6d6d6;
+}
+
+.data-form__or::after {
+  content: "";
+  position: absolute;
+  margin-left: 15px;
+  bottom: 8px;
+  height: 0.5px;
+  width: 45%;
+  background-color: #d6d6d6;
+}
+
+#country-selector .MuiSelect-select {
+  display: flex !important;
+  gap: 6px !important;
+}
+#country-selector .MuiSelect-select:focus {
+  background-color: #ffffff !important;
+}
+
+#number-input input {
+  color: #383838;
+  font-size: 1rem;
+  padding-left: 0 !important;
+}
+#number-input fieldset {
+  border: none;
+}
+
+@media screen and (max-width: 900px) {
+  .text_align {
+    text-align: center;
+  }
+}
+
+.otp-input:focus {
+  transform: scale(1.1);
+}/*# sourceMappingURL=otp.css.map */

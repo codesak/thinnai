@@ -1,0 +1,117 @@
+
+.bookingContainer {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media screen and (min-width: 900px) {
+    .bookingContainer {
+        display: flex;
+        justify-content: center;
+        gap: 2rem;
+        max-width: 1170px;
+    }
+    
+}
+
+.desktop {
+    display: none;
+}
+
+@media screen and (min-width: 900px) {
+    .desktop {
+        display: block;
+        min-width: 450px;
+        max-width: 450px;
+    }
+}
+
+.light {
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid black;
+    font-size: 0.875rem;
+    width: 140px;
+    height: 40px;
+    border-radius: 0.375rem;
+    color: black;
+}
+.dark {
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid black;
+    color: white;
+    border-radius: 0.375rem;
+    width: 140px;
+    height: 40px;
+    font-size: 0.875rem;
+}
+
+.mobileBtns {
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (min-width: 900px) {
+    .mobileBtns {
+        display: none;
+    }
+}
+
+.linkContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.linkWrapper {
+    display: flex;
+    gap: 1rem;
+}
+
+.imgContainer {
+    width: 1.5rem;
+    background-color: red;
+}
+.imgContainer img {
+    width: 16px;
+}
+
+.mobileNav {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+@media screen and (min-width: 900px) {
+    .mobileNav {
+        display: none;
+    }
+}
+
+.mobileNav h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 1.75rem;
+}
+
+.mobileNav div {
+    padding: 1.25rem;
+}
+
+.propImgContainer {
+    
+}
+
+.payNowBtn {
+    border: none;
+    width: 100%;
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+}

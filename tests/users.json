@@ -1,0 +1,58 @@
+{
+	"users": [
+		{
+			"email": "nitishree01@gmail.com",
+			"password": "EUoW0EKlBKk9skE",
+			"phone": "+918095025070",
+			"altPhone": "+918095686043",
+			"firstName": "Niti",
+			"lastName": "Shree",
+			"profileImage": "https://drive.google.com/open?id=1MaQXVOpZuJOeJPfTQMCo2qeJasZhUJtG",
+			"emailVerified": true,
+			"registered": true
+		},
+		{
+			"email": "sjxavier06@gmail.com",
+			"password": "JUjhJH6sUclVHA9",
+			"phone": "+919743999756",
+			"altPhone": "+919845010554",
+			"firstName": "Sanjay",
+			"lastName": "Xavier",
+			"profileImage": "https://drive.google.com/open?id=1K_GOboZm7ZrR-Ld5mUOSaRN3unRTizy5",
+			"emailVerified": true,
+			"registered": true
+		},
+		{
+			"email": "harit.harirupindia@gmail.com",
+			"password": "P4LSuLBBTzNtQlx",
+			"phone": "+919448589036",
+			"firstName": "Harith",
+			"lastName": "Atray",
+			"profileImage": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/648.jpg",
+			"emailVerified": true,
+			"registered": true
+		},
+		{
+			"email": "aloka.chatterjea@gmail.com",
+			"password": "cJ2eHch_XsL7Idk",
+			"phone": "+919663094414",
+			"altPhone": "+918754845860",
+			"firstName": "Aloka",
+			"lastName": "Chatterjea",
+			"profileImage": "https://drive.google.com/open?id=1leeRxI5KbXQqJijItkMWQMgY__UPzJ7B",
+			"emailVerified": true,
+			"registered": true
+		},
+		{
+			"email": "rp_janati@yahoo.co.in",
+			"password": "iSQPPyM4ozGMlGG",
+			"phone": "+919845154394",
+			"altPhone": "+919980154394",
+			"firstName": "Radha",
+			"lastName": "Prabhudev",
+			"profileImage": "https://drive.google.com/open?id=17bKXR0MInEINwxl6hNVY14-Xi-wxnsvE",
+			"emailVerified": true,
+			"registered": true
+		}
+	]
+}

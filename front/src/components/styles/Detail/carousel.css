@@ -1,0 +1,51 @@
+@import '~slick-carousel/slick/slick.css';
+@import '~slick-carousel/slick/slick-theme.css';
+.reviewCarousel {
+  overflow: hidden;
+}
+.reviewCarousel .slick-initialized .slick-slide {
+  transform: scale(0.6);
+  transition: transform 300ms;
+  opacity: 0.9;
+  position: relative;
+}
+@media screen and (max-width: 600px) {
+  .reviewCarousel .slick-initialized .slick-slide {
+    transform: scale(0.55);
+  }
+}
+.reviewCarousel .slick-initialized .slick-list {
+  overflow: visible !important;
+}
+.reviewCarousel .slick-initialized .slick-center,
+.reviewCarousel .slick-current {
+  border-radius: 19px;
+  opacity: 1;
+}
+.reviewCarousel .slick-arrow {
+  display: none !important;
+}
+.reviewCarousel .slick-dots {
+  bottom: 1.45rem;
+}
+@media screen and (max-width: 480px) {
+  .reviewCarousel .slick-dots {
+    bottom: 0.5rem;
+  }
+}
+.reviewCarousel .slick-dots li {
+  margin: 0px 0px;
+}
+.reviewCarousel .slick-dots button:before {
+  font-size: 13px;
+  color: #c9c6d6;
+}
+.reviewCarousel .slick-dots li.slick-active button:before {
+  color: #908bb0;
+}
+.reviewCarousel .slick-list {
+  margin-top: -20px;
+}
+.reviewCarousel .slick-list .slick-track {
+  height: 220px;
+}/*# sourceMappingURL=carousel.css.map */

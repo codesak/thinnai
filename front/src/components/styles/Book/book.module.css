@@ -1,0 +1,18 @@
+.container {
+    padding: 1rem;
+    position: relative;
+}
+.msg {
+    font-size: 12px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+    font-weight: 500;
+    width: 100%;
+}

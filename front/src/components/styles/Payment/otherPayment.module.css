@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+	--ff-primary: 'Roboto', sans-serif;
+	--ff-secondary: 'Roboto', sans-serif;
+}
+
+.title {
+    font-family: var(--ff-secondary);
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+@media screen and (min-width: 900px) {
+    .title {
+        font-size: 22px;
+        margin-top: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+}
+
+.existingUpi{
+    font-family: var(--ff-secondary);
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 3px;
+    line-height: 19px;
+}
+.upiWrapper {
+    border: 1px solid #DEDEDE;
+    border-radius: 10px;
+    padding: 4px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.upiWrapper input {
+    padding: 0;
+    flex-grow: 1;
+}
+
+.upiBtn {
+    padding: 4px 15px;
+    font-family: var(--ff-primary);
+    border-radius: 6px;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 600;
+    background-color: #8F7EF3;
+}
+
+.checkWrapper {
+    margin-top: 25px;
+}
+
+.checkWrapper label {
+    margin: 0;
+    display: flex;
+    gap: 10px;
+}
+
+.checkWrapper span:first-child {
+    width: 16px;
+    height: 16px;
+}
+.checkWrapper span:last-child {
+    font-family: var(--ff-primary);
+    font-size: 16px;
+    color: #383838;
+}
+
+.summary {
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.summary div label span{
+    font-weight: 600;
+    font-family: var(--ff-primary);
+    font-size: 14px;
+    color: #272F3D;
+}
+
+@media screen and (min-width: 900px) {
+    .summary div label span{
+        font-size: 22px;
+    }
+}
+.accordionDetails {
+    padding: 0;
+}
+
+.accordionDetails div {
+    width: 100%;
+}
+
+/* Credit / Debit Card */
+
+.cardInput {
+    font-family: var(--ff-primary);
+    border: 1px solid #272F3DE5;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+
+.cardInput:last-child {
+    margin-bottom: 0;
+}
+
+.cardInfoWrapper {
+    
+}
+
+.atmBar {
+    border: 1px solid #E1E1E1;
+}
+
+/* .textWrapper {
+    display: none;
+}
+
+@media screen and (min-width: 900px) {
+    .textWrapper {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+    }
+    .textWrapper input {
+        margin: 0;
+    }
+} */

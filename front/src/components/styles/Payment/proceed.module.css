@@ -1,0 +1,12 @@
+.btn {
+    font-size: '1.5rem';
+    font-weight: '500';
+    background: '#000000';
+    text-transform: 'capitalize';
+    max-width: '490px';
+    background-color: red;
+}
+
+.btn span {
+    background-color: red;
+}

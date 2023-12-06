@@ -1,0 +1,14 @@
+version: '3.9'
+services:
+  thinnai-canary:
+    image: 'thinnai-preprod:latest'
+    container_name: thinnai-preprod
+    ports:
+      - '6578:6099'
+    networks:
+      - thinnai-network
+
+networks:
+  thinnai-network:
+    driver: bridge
+    external: true
